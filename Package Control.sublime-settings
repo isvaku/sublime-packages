@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Angular 2 Snippets (John Papa)",
+		"AngularJS",
+		"BracketHighlighter",
+		"Color Highlight",
+		"Color Highlighter",
+		"ColorPicker",
+		"Console Wrap",
+		"CSS Extended Completions",
+		"Dockerfile Syntax Highlighting",
+		"Emmet",
+		"GitGutter",
+		"HTML5",
+		"jQuery",
+		"Material Theme",
+		"Ngx HTML",
+		"Package Control",
+		"QuickGotoAnything",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SwapStrings",
+		"Terminal",
+		"TypeScript"
+	]
+}

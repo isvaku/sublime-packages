@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"Angular 2 Snippets (John Papa)",
+		"AngularJS",
+		"Color Highlight",
+		"Vintage"
+	],
+	"theme": "Material-Theme-Darker.sublime-theme"
+}
